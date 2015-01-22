@@ -1,7 +1,7 @@
 {
-  "name": "Breddy",
+  "name": "breddy",
   "version": "0.0.1",
-  "description": "Simple CLI Server Manager",
+  "description": "Simple CLI VPS Manager",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +13,8 @@
     "minimist": "^1.1.0",
     "mkdirp": "^0.5.0",
     "multer": "^0.1.7"
-  }
+  },
+	"bin":{
+		"breddy":"bin/breddy"
+	}
 }
