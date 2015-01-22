@@ -1,6 +1,6 @@
 {
   "name": "breddy",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Simple CLI VPS Manager",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.10.2",
+    "express": "^4.11.1",
     "minimist": "^1.1.0",
     "mkdirp": "^0.5.0",
     "multer": "^0.1.7",
