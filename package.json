@@ -1,6 +1,6 @@
 {
   "name": "breddy",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Simple CLI VPS Manager",
   "main": "index.js",
   "scripts": {
